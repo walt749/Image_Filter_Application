@@ -1,0 +1,22 @@
+#canvas{
+    margin: auto;
+    background: lightgrey;
+    width: 100%;
+
+}
+
+.btn-disabled{
+    color: white !important;
+}
+
+.black-background {background-color: #f5525f;}
+.white {color: #ff2351;}
+
+#pin{
+    background-color: aqua;
+}
+
+/**
+.btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #8064A2 !important;
+} **/
